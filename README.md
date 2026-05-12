@@ -17,6 +17,8 @@ Sortessori is the reference app for the first physics migration slice. The curre
 of truth is `../sortessori/docs/unruly-systems-migration-plan.json`, backed by
 `../sortessori/docs/webgpu-cutover-audit.md`.
 
+Import gate: physical iOS cutover evidence verified and package-boundary checks green.
+
 Import production code here only after the Sortessori iOS WebGPU cutover has physical
 manual evidence for touch, VoiceOver, sensory feedback, and Expo GL rollback, and
 `../sortessori` passes:
